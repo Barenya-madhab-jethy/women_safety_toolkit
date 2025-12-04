@@ -2,45 +2,45 @@ A powerful Women Safety Toolkit web app with SOS alarm, live location sharing, f
 
 🚀 Features
 
-🔊 SOS Alarm (sound + flash + vibration)
+  🔊 SOS Alarm (sound + flash + vibration)
 
-📍 Live Location Share (WhatsApp/SMS prefill)
+  📍 Live Location Share (WhatsApp/SMS prefill)
 
-📞 Fake Call Simulator
+  📞 Fake Call Simulator
 
-🚨 Panic Mode (alarm + location + camera evidence)
+  🚨 Panic Mode (alarm + location + camera evidence)
 
-🎥 Camera Evidence Capture
+  🎥 Camera Evidence Capture
 
-🎤 Audio Recorder (send via WhatsApp)
+  🎤 Audio Recorder (send via WhatsApp)
 
-📇 Emergency Contacts Directory
+  📇 Emergency Contacts Directory
 
-📱 Quick Dial & SMS Prefill
+  📱 Quick Dial & SMS Prefill
 
-📝 Safety Tips & First Aid Guides
+  📝 Safety Tips & First Aid Guides
 
-🌗 Dark/Light + High Contrast Mode
+  🌗 Dark/Light + High Contrast Mode
 
-🗣️ Text-to-Speech Support
+  🗣️ Text-to-Speech Support
 
-📦 Offline PWA Support
+  📦 Offline PWA Support
 
-👤 User Authentication Page
+  👤 User Authentication Page
 
-🗂️ LocalStorage for Contacts & Settings
+  🗂️ LocalStorage for Contacts & Settings
 
 💡 Tech Stack
 
-HTML5
+ HTML5
 
-CSS3 (Animations + Responsive UI)
+ CSS3 (Animations + Responsive UI)
 
-JavaScript (Core Logic)
+ JavaScript (Core Logic)
 
-LocalStorage API
+ LocalStorage API
 
-Geolocation API
+ Geolocation API
 
 Audio & Vibration API
 
